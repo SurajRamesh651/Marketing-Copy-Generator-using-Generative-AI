@@ -21,9 +21,3 @@ A simple and interactive Streamlit app that uses Google Gemini Pro API to genera
 
 ---
 
-## 📦 Installation
-
-1. **Clone the repository (or download files):**
-   ```bash
-   git clone https://github.com/your-username/marketing-copy-generator.git
-   cd marketing-copy-generator
